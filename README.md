@@ -2,8 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%" height="auto"/>
 amazingly simple, simply amazing.<br/><br/>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jamm0316)](https://solved.ac/jamm0316/)
-<img id="yoda" src="https://github.com/user-attachments/assets/4f8967e9-0281-4fd8-a775-258387ff8095" width=170px height=170px style="border-radius: 10px;" alt="yoda">
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jamm0316)](https://solved.ac/jamm0316/)&nbsp;
+<img id="yoda" src="https://github.com/user-attachments/assets/4f8967e9-0281-4fd8-a775-258387ff8095" width=170px height=170px alt="yoda">
 
 <a href="https://github.com/jamm0316" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
