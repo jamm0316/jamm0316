@@ -2,6 +2,7 @@
 amazingly simple, simply amazing.<br/><br/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jamm0316)](https://solved.ac/jamm0316/)
+<img src="https://github.com/user-attachments/assets/4f8967e9-0281-4fd8-a775-258387ff8095">
 
 <a href="https://github.com/jamm0316" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
