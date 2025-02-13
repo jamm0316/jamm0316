@@ -3,9 +3,7 @@
 amazingly simple, simply amazing.<br/><br/>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=jamm0316)](https://solved.ac/jamm0316)
-
-&nbsp;
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=jamm0316)](https://solved.ac/jamm0316) &nbsp;
 <img id="yoda" src="https://github.com/user-attachments/assets/4f8967e9-0281-4fd8-a775-258387ff8095" width=170px height=170px alt="yoda">
 
 #### 📚 기술스택
