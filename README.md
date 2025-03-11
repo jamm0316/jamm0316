@@ -5,7 +5,7 @@ amazingly simple, simply amazing.<br/><br/>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jamm0316)](https://solved.ac/jamm0316) &nbsp;
 <img id="yoda" src="https://github.com/user-attachments/assets/4f8967e9-0281-4fd8-a775-258387ff8095" width=170px height=170px alt="yoda">
-<img width=170px height=170px alt="죽기아니면 까무라치기 2년도 못하냐?" src="https://github.com/user-attachments/assets/23ccbaf5-7165-439e-959a-d7aabf5a1dbc" />
+<img width=200px height=200px alt="죽기아니면 까무라치기 2년도 못하냐?" src="https://github.com/user-attachments/assets/23ccbaf5-7165-439e-959a-d7aabf5a1dbc" />
 
 
 #### 📚 기술스택
