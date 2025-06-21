@@ -3,14 +3,13 @@ amazingly simple, simply amazing.<br/><br/>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jamm0316)](https://solved.ac/jamm0316) &nbsp;
-<img id="yoda" src="https://github.com/user-attachments/assets/4f8967e9-0281-4fd8-a775-258387ff8095" width=170px height=170px alt="yoda">
 <img width="200" height="200" alt="죽기아니면 까무라치기 2년도 못하냐?" src="https://github.com/user-attachments/assets/23ccbaf5-7165-439e-959a-d7aabf5a1dbc" />
 <img width="200" alt="왜 존재하는가?" src="https://github.com/user-attachments/assets/3420fd8e-66a4-47bb-a57d-1edd0f22bec5" />
 <img width="200" alt="남들이 놀때 놀지말고 잘때 자지마라" src="https://github.com/user-attachments/assets/00855c52-fb06-4861-b0d6-9f1c8fa17ff5" />
 <img width="200" alt="내가 일하는 모습으로 신뢰를 주라" src="https://github.com/user-attachments/assets/c1becf9f-b654-44d2-be9f-80ea9d087410" />
 <img width="200" alt="누가시킨 일이건 해결능력 배양" src="https://github.com/user-attachments/assets/7ed48e4c-88d9-404b-a8cf-bdea8af08aa5" />
 <img width="200" alt="기회의 법칙" src="https://github.com/user-attachments/assets/62098534-753c-4f28-8f29-e6bec5ebd112" />
-
+<img id="yoda" src="https://github.com/user-attachments/assets/4f8967e9-0281-4fd8-a775-258387ff8095" width=170px height=170px alt="yoda">
 
 
 
