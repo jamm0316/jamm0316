@@ -2,13 +2,13 @@
 
 [Youtube 인증/인가 뜯어보기](https://blog.naver.com/jamm0316/223939042127)
 
-<div align="center" src="https://blog.naver.com/jamm0316/223962443546">
+<div align="left">
   <table>
     <tr>
       <td>
         <div style="background-color: #2a2a2a; border-radius: 12px; padding: 24px; margin: 10px; border: 1px solid #3a3a3a; width: 500px;">
           <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 16px;">
-            <h3 style="color: #ffffff; margin: 0; font-size: 20px; font-weight: 600;">송재명 블로그</h3>
+            <h3 style="color: #ffffff; margin: 0; font-size: 20px; font-weight: 600;" src-"https://blog.naver.com/jamm0316/223962443546">송재명 블로그</h3>
             <div style="display: flex; align-items: center; gap: 8px; color: #888;">
               <span>118</span>
               <span style="color: #666;">♡</span>
