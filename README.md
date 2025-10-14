@@ -2,7 +2,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jamm0316)](https://solved.ac/jamm0316) 
 <a href="https://blog.naver.com/jamm0316" target="_blank">
-  <img alt="Static Badge" src="https://img.shields.io/badge/TechBlog-Evan.log-%2303C75A?style=flat&logo=naver&logoColor=%2303C75A&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/%E3%85%A4-TechBlog-%2303C75A?style=flat&logo=naver&logoColor=%2303C75A&logoSize=auto">
 </a>
 ### 🌱 블로그 
 
