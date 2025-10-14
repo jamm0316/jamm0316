@@ -23,3 +23,6 @@
   <span><img alt="Static Badge" src="https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=%23ffffff"></span>
   <span><img alt="Static Badge" src="https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=%23ffffff"></span>
 </div>
+
+## Github Statics
+![jamm0316's Stats](https://github-readme-stats.vercel.app/api?username=jamm0316&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
