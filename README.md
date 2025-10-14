@@ -1,11 +1,10 @@
 # 송재명(Evan)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jamm0316)](https://solved.ac/jamm0316)
-
-### 🌱 블로그 
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jamm0316)](https://solved.ac/jamm0316) 
 <a href="https://blog.naver.com/jamm0316" target="_blank">
-  <img alt="Static Badge" src="https://img.shields.io/badge/TechBlog-evan.log-%2303C75A?style=for-the-badge&logo=naver&logoColor=%2303C75A&link=https%3A%2F%2Fblog.naver.com%2Fjamm0316">
+  <img alt="Static Badge" src="https://img.shields.io/badge/TechBlog-Evan.log-%2303C75A?style=flat&logo=naver&logoColor=%2303C75A&logoSize=auto">
 </a>
+### 🌱 블로그 
 
 > [🧩 DDD 적용으로 Service 가볍게 만드는 3가지 핵심 원칙](https://blog.naver.com/jamm0316/224002896803)<br>
 > DDD를 공부하하며 DTO·Entity·Service의 역할을 분리한 트러블슈팅 사례를 공유합니다. <br>
