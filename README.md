@@ -41,6 +41,3 @@
 > 팀프로젝트 중 AWS에 업로드한 DB를 해킹당하고 보안을 강화했던 경험을 공유한 글입니다.<br>
 > `DB`  `보안`  `해킹`  `AWS`  `MySQL`<br>
 <br>
-
-### Github Statics
-![jamm0316's Stats](https://github-readme-stats.vercel.app/api?username=jamm0316&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
