@@ -31,6 +31,10 @@
 </table>
 
 ### 🌱 블로그 
+> [👟 OAuth 로그인, 스레드 경쟁상태 해결하기](https://blog.naver.com/jamm0316/224022244207)<br>
+> 개인프로젝트 중 스레드 경쟁상태 분석 및 해결방안을 공유합니다. <br>
+> `DDD` `책임분리` `Spring Boot` `JPA`<br>
+<br>
 
 > [🧩 DDD 적용으로 Service 가볍게 만드는 3가지 핵심 원칙](https://blog.naver.com/jamm0316/224002896803)<br>
 > DDD를 공부하하며 DTO·Entity·Service의 역할을 분리한 트러블슈팅 사례를 공유합니다. <br>
