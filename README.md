@@ -1,36 +1,34 @@
 # 송재명(Evan)
-<div align="center">
-  <table>
-    <tr>
-      <th>
-        Algorithm
-      </th>
-      <th>
-        TechBlog
-      </th>
-      <th>
-        Language
-      </th>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://solved.ac/profile/jamm0316" target="_blank">
-          <img alt="Backjoon Tear" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jamm0316">
-        </a>
-      </td>
-      <td>
-        <a href="https://blog.naver.com/jamm0316" target="_blank">
-          <img alt="Static Badge" src="https://img.shields.io/badge/%E3%85%A4-TechBlog-%2303C75A?style=flat&logo=naver&logoColor=%2303C75A&logoSize=auto">
-        </a>
-      </td>
-      <td>
-        <span><img alt="Static Badge" src="https://img.shields.io/badge/springboot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=%23ffffff"></span>
-        <span><img alt="Static Badge" src="https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=%23ffffff"></span>
-        <span><img alt="Static Badge" src="https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=%23ffffff"></span>
-      </td>
-    </tr>
-  </table>
-</div>
+<table>
+  <tr>
+    <th>
+      Algorithm
+    </th>
+    <th>
+      TechBlog
+    </th>
+    <th>
+      Language
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://solved.ac/profile/jamm0316" target="_blank">
+        <img alt="Backjoon Tear" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jamm0316">
+      </a>
+    </td>
+    <td>
+      <a href="https://blog.naver.com/jamm0316" target="_blank">
+        <img alt="Static Badge" src="https://img.shields.io/badge/%E3%85%A4-TechBlog-%2303C75A?style=flat&logo=naver&logoColor=%2303C75A&logoSize=auto">
+      </a>
+    </td>
+    <td>
+      <span><img alt="Static Badge" src="https://img.shields.io/badge/springboot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=%23ffffff"></span>
+      <span><img alt="Static Badge" src="https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=%23ffffff"></span>
+      <span><img alt="Static Badge" src="https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=%23ffffff"></span>
+    </td>
+  </tr>
+</table>
 
 ### 🌱 블로그 
 > [👟 OAuth 로그인, 스레드 경쟁상태 해결하기](https://blog.naver.com/jamm0316/224022244207)<br>
