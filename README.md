@@ -1,9 +1,26 @@
 # 송재명(Evan)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jamm0316)](https://solved.ac/jamm0316) 
-<a href="https://blog.naver.com/jamm0316" target="_blank">
-  <img alt="Static Badge" src="https://img.shields.io/badge/%E3%85%A4-TechBlog-%2303C75A?style=flat&logo=naver&logoColor=%2303C75A&logoSize=auto">
-</a>
+<table>
+  <tr>
+    <th>
+      Algorithm
+    </th>
+    <th>
+      TechBlog
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://solved.ac/jamm0316">
+        <img alt="Backjoon Tear" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jamm0316">
+      </a>
+    </td>
+    <td>
+      <a href="https://blog.naver.com/jamm0316" target="_blank">
+        <img alt="Static Badge" src="https://img.shields.io/badge/%E3%85%A4-TechBlog-%2303C75A?style=flat&logo=naver&logoColor=%2303C75A&logoSize=auto">
+      </a>
+    </td>
+  </tr>
+</table>
 ### 🌱 블로그 
 
 > [🧩 DDD 적용으로 Service 가볍게 만드는 3가지 핵심 원칙](https://blog.naver.com/jamm0316/224002896803)<br>
