@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://solved.ac/jamm0316">
+      <a href="https://solved.ac/jamm0316" target="_blank">
         <img alt="Backjoon Tear" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jamm0316">
       </a>
     </td>
@@ -21,6 +21,7 @@
     </td>
   </tr>
 </table>
+
 ### 🌱 블로그 
 
 > [🧩 DDD 적용으로 Service 가볍게 만드는 3가지 핵심 원칙](https://blog.naver.com/jamm0316/224002896803)<br>
