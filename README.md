@@ -9,4 +9,4 @@ I'm developing enterprise AI RAG backend systems at Posicube
 | Type | Date | Contents | Organization |
 |------|------|----------|--------------|
 | Company | 2025.12 ~ | Backend Engineer | POSICUBE |
-| Bootcamp | 2024.09 ~ 2025.03 | SHINHAN SW Academy | SHINHAN DS |
+| Bootcamp | 2024.09 ~ 2025.03 | Shinhan SW Academy | Shinhan DS |
