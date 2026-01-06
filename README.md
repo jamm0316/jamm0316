@@ -4,7 +4,7 @@ I'm developing enterprise AI RAG backend systems at Posicube
 
 ---
 
-## Experience
+### Experience
 
 | Type | Date | Contents | Organization |
 |------|------|----------|--------------|
